@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oJorta (João Pedro) and I'm a begginer programmer based in Brazil;
-- 🌱 I’m currently learning C, Java and Data Structure in those languages;
+- 🌱 I’m currently learning C (data structures), Java (OOP) and front-end development with JavaScript;
 - 📫 How to reach me - Twitter: [@jorrrrta](https://twitter.com/jorrrrta)
 
 <!---
