@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/oJorta">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oJorta&show_icons=true&theme=codeSTACKr&title_color=b5179e&icon_color=b5179e&hide_border=true&text_color=c9d1d9&text_bold=false&custom_title=Jo%C3%A3o%20Pedro%20Noberto%27s%20GitHub%20Stats%3A"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJorta&layout=compact&theme=codeSTACKr&title_color=b5179e&icon_color=b5179e&hide_border=true&text_color=c9d1d9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=oJorta&show_icons=true&theme=codeSTACKr&title_color=b5179e&icon_color=b5179e&hide_border=true&text_color=c9d1d9&text_bold=false&custom_title=Jo%C3%A3o%20Pedro%20Noberto%27s%20GitHub%20Stats%3A"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJorta&layout=compact&theme=codeSTACKr&title_color=b5179e&icon_color=b5179e&hide_border=true&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
