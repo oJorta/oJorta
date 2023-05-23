@@ -1,6 +1,7 @@
 ## Wassup 🥷🏼✌️
 - 👋 Hi, I’m @oJorta (João Pedro) and I'm a begginer web developer based in Brazil;
-- 🌱 I’m currently focused in front-end web development;
+- 🌱 Computer Science student at UESC;
+- 💻 Currently focused in front-end web development with JavaScript;
 - 📫 How to reach me - Twitter: [@jorrrrta](https://twitter.com/jorrrrta)
 
 <div align="center">
