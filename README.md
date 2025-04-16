@@ -1,4 +1,4 @@
-## Wassup 🥷🏼✌️
+## Wassup! 🐉
 <img src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -8,22 +8,22 @@
 
 <p>
 <strong>Computer Science</strong> student at <a href="http://www.uesc.br">Universidade Estadual de Santa Cruz (UESC)</a>
-</br>
-<strong>Developer</strong> at <a href="https://tecnojr.com.br">TecnoJr</a><img src="https://avatars.githubusercontent.com/u/44043556?s=200&v=4" width="30"> 
+</p>
+<p>
+<strong>Frontend Development Resident </strong> at <a href="https://tecnojr.com.br">RESTIC36 – CEPEDI</a><img src="https://www.restic36.cepedi.org.br/img/logo-nav.png" width="80"> 
+</p>
+<p>
+<strong>Former Developer</strong> at <a href="https://tecnojr.com.br">TecnoJr</a><img src="https://avatars.githubusercontent.com/u/44043556?s=200&v=4" width="30"> 
 </p>
 
-[![Linkedin: jpnoberto](https://img.shields.io/badge/-jpnoberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpnoberto/)](https://www.linkedin.com/in/jpnoberto/)
+<strong align="center">LinkedIn:</strong> [![Linkedin: jpnoberto](https://img.shields.io/badge/-jpnoberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpnoberto/)](https://www.linkedin.com/in/jpnoberto/)
 
 <p align="left">
-  <span align="center">🛠️ Skills:</span>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next" /></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" /></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" /></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" /></code>
+  <strong align="center">🛠️ Skills:</strong>
+  </br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,next,react,angular,nodejs,figma,docker,postgresql,prisma,tailwind&perline=8" />
+  </a>
 </p>
 
 <div align="left">
